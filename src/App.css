@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-color:#b1d083;
+  background-color:#839c5d;
   }
 
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400&family=Roboto+Serif:opsz,wght@8..144,200&display=swap');
@@ -27,7 +27,7 @@ html {
   font-size: 60%;
   overflow-x: hidden;
   scroll-padding-top: 8rem;
-  scroll-behavior: smooth;
+  /* scroll-behavior: smooth; */
 }
 html::-webkit-scrollbar {
   width: .7rem;
@@ -126,7 +126,7 @@ h5 {
 }
 
 .header .icons div:hover {
-  color: var(--main-color);
+  color: black;
 }
 
 #menu-btn {
@@ -149,18 +149,18 @@ h5 {
   box-shadow: 2px 4px 10px black;
 } */
 
-.header .search-form.active {
+/* .header .search-form.active {
   transform: scaleY(1);
-}
+} */
 
-.header .search-form input {
+/* .header .search-form input {
   height: 100%;
   width: 100%;
   font-size: 1.3rem;
   color:var(--black);
   padding: 1rem;
   text-transform: none;
-}
+} */
 
 /* .header .search-form label {
   cursor: pointer;

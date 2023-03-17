@@ -15,8 +15,8 @@ import { useNavigate } from 'react-router-dom';
         //prevent default behavior of the submit
         e.preventDefault();
         //make a post request to create a new product
-//! PYTHON ROUTES NEED TO BE WORK ON
-        axios.post('http://localhost:3001/api/new/review', {
+
+        axios.post('http://localhost:3000/api/new/review', {
             name,
             place,
             description
@@ -37,11 +37,11 @@ import { useNavigate } from 'react-router-dom';
                     setErrors(errorArr);
                 })            
     }
-
+    //!PAGE RENDER
     return (
         <div>
             <section>
-            <form on Submit={onSubmitHandler} className="feedback">
+            <form onSubmit={onSubmitHandler} className="feedback">
                 {errors.map((err, index) => <p key={index}>{err}</p>)}
                 <h1 class="pinfo" >WE APPRECIATE YOUR REVIEW!</h1>
                 <h2 class="pinfo2">Your personal info</h2>
@@ -60,7 +60,7 @@ import { useNavigate } from 'react-router-dom';
                 <div class="review-group">
                     <div class="col-md-4 inputGroupContainer">
                         <div class="input-review">
-                            <span class="input-review-addon"><i class="fa fa-globe"></i></span>
+                            <span class="input-review-addon"><i class="fa fa-globe"></i>🌐</span>
                             <label><h5>Country</h5></label>
                             <input  name="name" placeholder="Where are you from" class="form-control-review"  type="text" onChange={(e)=>setPlace(e.target.value)} value={place}/>
                         </div>
@@ -73,13 +73,14 @@ import { useNavigate } from 'react-router-dom';
                     <div class="review-group">
                         <div class="col-md-4 inputGroupContainer">
                             <div class="input-review">
-                            <label><h5>Please type in the box</h5></label>
+                            <label><h5>Please write in the box</h5></label>
                             <textarea class="form-control" id="review" rows="7" cols="65" onChange={(e)=>setDescription(e.target.value)} value={description}></textarea>
                             </div>
                                 <br/>
                             <em>♡ Thank you ♡</em>
                         </div>
-                        <a href="/review" class="btn">Submit</a>
+                        {/* <a href="/review" class="btn">Submit</a> */}
+                        <input type="submit" value="Submit"/>
                     </div>
             </form>
 
@@ -88,4 +89,4 @@ import { useNavigate } from 'react-router-dom';
     )
     }
 
-export default WriteReview
+export default WriteReview;
