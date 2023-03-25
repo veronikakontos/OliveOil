@@ -33,10 +33,10 @@ const Review = (props) => {
                     <a href="/writereview" class="btn">Write review</a>
 
                     <div className='box'>
-                        <h3>Name: Kostoula</h3>
+                        <h3>Name: {}</h3>
                         <br/>
-                        <h4>From: Greece</h4>
-                        <p>Wrote:</p>
+                        <h4>From: {}</h4>
+                        <p>Wrote:{}</p>
                         <p><em> </em>
                         </p>
 

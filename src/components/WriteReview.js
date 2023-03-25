@@ -79,8 +79,8 @@ import { useNavigate } from 'react-router-dom';
                                 <br/>
                             <em>♡ Thank you ♡</em>
                         </div>
-                        {/* <a href="/review" class="btn">Submit</a> */}
-                        <input type="submit" value="Submit"/>
+                        <a href="/review" value="submit" class="btn">Submit</a>
+                        {/* <input type="submit" value="Submit"/> */}
                     </div>
             </form>
 
