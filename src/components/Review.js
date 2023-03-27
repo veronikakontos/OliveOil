@@ -36,7 +36,7 @@ const Review = (props) => {
                         <h3>Name: {} </h3>
                         <br/>
                         <h4>From: {} </h4>
-                        <p>Wrote:{} </p>
+                        <p>Wrote:{ } </p>
                         <p><em> </em>
                         </p>
 
