@@ -17,9 +17,9 @@ const Header = (props) => {
                 </nav>
 
                 <div class="icons">
-                    <div class="fas fa-search" id="search-btn"></div> 
-                    <div class="fas fa-shopping-cart" id="cart-btn">🛒</div>
-                    <div class="fas fa-bars" id="menu-btn"></div>
+                    {/* <div class="fas fa-search" id="search-btn">🔎</div>  */}
+                    {/* <div class="fas fa-shopping-cart" id="cart-btn"></div> */}
+                    <div class="fas fa-bars" id="menu-btn">⬇</div>
                 </div> 
 
                 {/* <div class="search-form">

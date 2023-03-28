@@ -16,14 +16,14 @@ import { useNavigate } from 'react-router-dom';
         e.preventDefault();
         //make a post request to create a new product
 
-        axios.post('http://localhost:3000/api/new/review', {
+        axios.post('http://localhost:8000/api/new/review', {
             name,
             place,
             description
         })
             .then(res=>{
                 console.log(res);
-                navigate("/");
+                navigate("/review");
                 
             })
 
@@ -68,7 +68,7 @@ import { useNavigate } from 'react-router-dom';
                 </div>
 
                 <br/> <br/>
-                <div class="pinfo2">Write your feedback.</div>
+                <div class="pinfo2">Write your feedback</div>
                 
                     <div class="review-group">
                         <div class="col-md-4 inputGroupContainer">
@@ -79,8 +79,8 @@ import { useNavigate } from 'react-router-dom';
                                 <br/>
                             <em>♡ Thank you ♡</em>
                         </div>
-                        <a href="/review" value="submit" class="btn">Submit</a>
-                        {/* <input type="submit" value="Submit"/> */}
+                        {/* <a href="/review" value="submit" class="btn">Submit</a> */}
+                        <input class="btn" type="submit" value="Submit"/>
                     </div>
             </form>
 
