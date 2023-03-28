@@ -35,7 +35,7 @@
 
 
 ## Screenshots
-Main page: You can click on social media link or click on Logo and this takes you to a Social media (INSTAGRAM).
+Main page: You can click on Social media link or click on Logo and this takes you to a social media (INSTAGRAM).
 
 ![Main page](./public/screenshots/welcome.png)
 
