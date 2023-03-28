@@ -57,7 +57,7 @@ Write review page is form with personal info and full validation
 
 Contact page has Google map and Contact info. User/client can send an email to a seller for request. Contact form has validation.
 ![Contact](./public/screenshots/contact:valid.png)
-![Email SENT](../client/public/screenshots/emailsent.png)
+![Email SENT](./public/screenshots/emailsent.png)
 ![Email RECEIVED](./public/screenshots/emailreceived.png)
 
 Social media 
