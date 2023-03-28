@@ -1,6 +1,77 @@
-# Getting Started with Create React App
+# This project is Family-0riented Olive Oil Bussines - online sale
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
+
+  - [Table of Contents](#table-of-contents)
+  - [General Information](#general-information)
+  - [Technologies Used](#technologies-used)
+  - [Screenshots](#screenshots)
+  - [Setup and Usage](#setup-and-usage)
+  - [Project Status](#project-status)
+  - [Room for Improvement](#room-for-improvement)
+  - [Contact](#contact)
+  
+  ## General Information
+  This project is a Full-Stack website built using MERN,HTML5, CSS, Postman.
+  This real bussines is located in Greece, where user can see real time google map of a place which area of Greece are olives coming from and where olive oil is produced.
+  User can buy online products and contact seller via email. User can check social media platform such as Instagram or Facebook of selling products and more info.
+
+  ## Technologies Used
+- JavaScript
+- Mongoose
+- Express
+- React
+- Node.js
+- Cors
+- Bootsrap
+- Axios
+- Postman
+- Google Map
+- Instagram 
+- Html5
+- CSS
+
+<br>
+
+
+## Screenshots
+Main page: You can click on social media link or click on Logo and this takes you to a Social media (INSTAGRAM).
+
+![Main page](./public/screenshots/welcome.png)
+
+About page is small introduction about family bussines, who they are etc..
+
+![About](./public/screenshots/about.png)
+
+Product page show all avalaible products to be able purchase via contacting sellers. Contact click button will take you to a contact page.
+
+![All Products](../client/public/screenshots/Screenshot%202023-03-28%20at%2012.14.04%20PM.png)
+
+Reviews page is for client/users who would like to share few words.
+
+![Reviews](../client/public/screenshots/review.png)
+
+Write review page is form with personal info and full validation
+
+![Write Reviews](../client/public/screenshots/writerev.png)
+
+Contact page has Google map and Contact info. User/client can send an email to a seller for request. Contact form has validation.
+![Contact](../client/public/screenshots/contact:valid.png)
+![Email SENT](../client/public/screenshots/emailsent.png)
+![Email RECEIVED](../client/public/screenshots/emailreceived.png)
+
+Social media 
+
+![Social Media](../client/public/screenshots/ig.png)
+
+<br>
+
+<br>
+
+## Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) &  used CSS.
+
 
 ## Available Scripts
 
@@ -52,10 +123,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 ### Analyzing the Bundle Size
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
 ### Advanced Configuration
 
