@@ -13,8 +13,8 @@
   
   ## General Information
   This project is a Full-Stack website built using MERN,HTML5, CSS, Postman.
-  This real bussines is located in Greece, where user can see real time google map of a place which area of Greece are olives coming from and where olive oil is produced.
-  User can buy online products and contact seller via email. User can check social media platform such as Instagram or Facebook of selling products and more info.
+  This bussines website has main location in Greece, where user can see Google map and check area where olives coming from and where olive oil is produced.
+  User can buy online products and contact seller via email or social media, such as Instagram or Facebook of selling products and more info.
 
   ## Technologies Used
 - JavaScript
