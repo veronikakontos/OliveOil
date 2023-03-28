@@ -53,16 +53,16 @@ Reviews page is for client/users who would like to share few words.
 
 Write review page is form with personal info and full validation
 
-![Write Reviews](../client/public/screenshots/writerev.png)
+![Write Reviews](./public/screenshots/writerev.png)
 
 Contact page has Google map and Contact info. User/client can send an email to a seller for request. Contact form has validation.
-![Contact](../client/public/screenshots/contact:valid.png)
+![Contact](./public/screenshots/contact:valid.png)
 ![Email SENT](../client/public/screenshots/emailsent.png)
-![Email RECEIVED](../client/public/screenshots/emailreceived.png)
+![Email RECEIVED](./public/screenshots/emailreceived.png)
 
 Social media 
 
-![Social Media](../client/public/screenshots/ig.png)
+![Social Media](./public/screenshots/ig.png)
 
 <br>
 
