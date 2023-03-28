@@ -45,11 +45,11 @@ About page is small introduction about family bussines, who they are etc..
 
 Product page show all avalaible products to be able purchase via contacting sellers. Contact click button will take you to a contact page.
 
-![All Products](../client/public/screenshots/Screenshot%202023-03-28%20at%2012.14.04%20PM.png)
+![All Products](./public/screenshots/Screenshot%202023-03-28%20at%2012.14.04%20PM.png)
 
 Reviews page is for client/users who would like to share few words.
 
-![Reviews](../client/public/screenshots/review.png)
+![Reviews](./public/screenshots/review.png)
 
 Write review page is form with personal info and full validation
 
@@ -78,6 +78,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
