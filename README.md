@@ -15,6 +15,7 @@
   This project is a Full-Stack website built using MERN,HTML5, CSS, Postman.
   This bussines website has main location in Greece, where user can see Google map and check area where olives trees growing and where olive oil is produced.
   User can buy online products and contact seller via email or social media, such as Instagram or Facebook of selling products and more info.
+ (website is responsive)
 
   ## Technologies Used
 - JavaScript
