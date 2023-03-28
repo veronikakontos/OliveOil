@@ -46,7 +46,7 @@ body {
 }
 
 section {
-  padding: 2rem 7%;
+  padding: 1rem 7%;
 }
 
 h5 {
@@ -72,7 +72,7 @@ h5 {
   font-size: 1.6rem;
   color: #040404;
   padding: 1rem 4.2rem;
-  background: rgb(111, 130, 71);
+  background: rgb(146, 175, 83);
   cursor: pointer;
   border: 1px solid rgb(247, 245, 245);
   border-radius: 5px;
@@ -134,7 +134,7 @@ h5 {
 
 .header .cart-items-container {
   position: absolute;
-  top: 105%; 
+  top: 100%; 
   right: -100%;
   height: calc(100vh - 9.5rem);
   width: 35rem;
@@ -333,9 +333,10 @@ h5 {
 
 /* !Stiling REVIEW HTML */
 .review .box-container {
+  background-image: url(../public/images/backround2.jpeg);
   margin-top: 50px;
   min-height: 100vh;
-  padding: 8rem;
+  padding: 10rem;
   grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
   gap: 2rem;
   background-color: #738657;
@@ -347,14 +348,19 @@ h5 {
   padding: 4rem 3.5rem;
 }
 .review .box-container p {
-  font-size: 1.6rem;
+  font-size: 1.9rem;
   line-height: 1.9rem;
   color:rgb(10, 10, 10);
-  padding: 2rem 0;
+  padding: 2.5rem 0;
   background: #b1d083;
+  font-weight: 600;
 }
 .review .box-container h3 {
   font-size: 2rem;
+  background: burlywood;
+}
+.review .box-container h1 {
+  font-size: 3rem;
   background: burlywood;
 }
 
@@ -376,10 +382,9 @@ h5 {
   
 }
 .contact .row .map {
-  
   flex: 1 1 45rem;
   width: 100%;
-  height: 600px;
+  height: 500px;
   object-fit: cover;
   padding: 4rem;
   
@@ -388,6 +393,8 @@ h5 {
   flex:  1 1 45rem;
   padding: 4rem 7rem;
   font-size: 4rem;
+  text-align: center;
+  /* background-position: center; */
   
 }
 .contact .row form h3 {
@@ -406,23 +413,21 @@ h5 {
   margin-bottom: 2rem;
   border: var(--border);
   background-color: burlywood;
-  padding: 5px;
-  margin-left: 5px;
+  padding: 4px;
 }
 
 .contact .row form .inputBox span {
   color: black;
   font-size: 3rem;
-  padding-left: .8rem;
+  
 }
 .contact .row form .inputBox input {
   width: 100%;
   font-size: 2rem;
-  color: aliceblue;
+  color: olive;
   text-transform: none;
+  font-size: 1.8rem;
 }
-
-
 
 /* !WRITE REVIEW CSS */
 .feedback {
@@ -517,16 +522,18 @@ h5 {
   }
 
   .header .navbar {
-      /* display: flex;
+      display: flex;
       align-items: center;
-      justify-content: center; */
+      justify-content:space-around; 
       position: absolute;
+      padding: 10px;
       top: 100%;
       right: 0%;
       background: var(--main-color);
-      width: 15rem;
+      width: 100%;
+      height: 25px;
       border-radius: 5px;
-      /* height: calc(100vh - 9.5rem); */
+    /* height: calc(100vh - 9.5rem);   */
   }
 
   .header .navbar a {

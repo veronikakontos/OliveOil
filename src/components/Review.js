@@ -33,12 +33,14 @@ const Review = (props) => {
                 <div className='box-container'>
                     <a href="/writereview" class="btn">Write review</a>
 
+
                     {reviews && reviews.map((review, idx) => 
                     
                         <div key={idx}>
-                        <h1>Name: {review.name}</h1>
+                        <h1>{review.name}</h1>
+                        <br></br>
                         <h3>From: {review.place}</h3>
-                        <p> {review.description}</p>
+                        <p>{review.description}</p>
                         <button className='btn' onClick={(e) => { deleteReview(review._id) }}>Delete</button>
                     </div>
 

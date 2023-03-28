@@ -2,7 +2,7 @@ import React from 'react'
 
 const Contact = () => {
     return (
-        <div>
+        // <div>
             <section class="contact" id="contact">
 
                 <div class="row">
@@ -34,7 +34,7 @@ const Contact = () => {
                 </div>
 
             </section> 
-        </div>
+        // </div>
     )
     }
 

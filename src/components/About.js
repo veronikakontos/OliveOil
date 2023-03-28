@@ -9,7 +9,7 @@ const About = () => {
     
             <div class="row">
                 <div class="images">
-                    <img src="./images/blog-1.jpeg" alt="pic" width="100%" height="450px"/>
+                    {/* <img src="./images/blog-1.jpeg" alt="pic" width="100%" height="450px"/> */}
                 </div>
                     <div class="content">
                         <h3>What makes olive oil special?</h3>
