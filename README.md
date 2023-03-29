@@ -24,7 +24,7 @@
 - React
 - Node.js
 - Cors
-- Bootsrap
+- Bootstrap
 - Axios
 - Postman
 - Google Map
