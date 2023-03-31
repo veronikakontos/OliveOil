@@ -1,4 +1,4 @@
-# This project is Family-0riented Olive Oil Bussines - online sale
+# This project is a Family-Oriented Olive Oil Business
 
 ## Table of Contents
 
@@ -11,10 +11,10 @@
   - [Room for Improvement](#room-for-improvement)
   - [Contact](#contact)
   
-  ## General Information
-  This project is a Full-Stack website built using MERN,HTML5, CSS, Postman.
-  Website has main location in Greece, where user can see Google map and check area where olives trees growing and where olive oil is produced.
-  User can buy online products and contact seller via email or social media, such as Instagram or Facebook of selling products and more info.
+## General Information
+  This project is a Full-Stack website built using MERN, HTML5, CSS, and Postman.
+  The website has its main location in Greece, where users can see Google Maps and check areas where olive trees grow and where olive oil is produced.
+  Users can buy online products and contact sellers via email or social media, such as Instagram or Facebook of selling products and more info.
  (website is responsive)
 
   ## Technologies Used
