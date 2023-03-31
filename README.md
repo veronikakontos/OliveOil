@@ -56,7 +56,7 @@ Write review page is form with personal info and full validation
 
 ![Write Reviews](./public/screenshots/writerev.png)
 
-Contact page has Google map and Contact info. User/client can send an email to a seller for request. Contact form has validation.
+Product page show all available products to purchase by contacting sellers. The contact click button will take you to a contact page.
 ![Contact](./public/screenshots/contact:valid.png)
 ![Email SENT](./public/screenshots/emailsent.png)
 ![Email RECEIVED](./public/screenshots/emailreceived.png)
