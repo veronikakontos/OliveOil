@@ -36,11 +36,11 @@
 
 
 ## Screenshots
-Main page: You can click on Social media link or click on Logo and this takes you to a social media (INSTAGRAM).
+Main page: You can click on the Social media link or click on Logo and this takes you to Instagram.
 
 ![Main page](./public/screenshots/welcome.png)
 
-About page is small introduction about family bussines, who they are etc..
+The about page is a small introduction about the family business, who they are etc
 
 ![About](./public/screenshots/about.png)
 
