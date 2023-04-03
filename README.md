@@ -48,7 +48,7 @@ Product page show all available products to be able to purchase via contacting s
 
 ![All Products](./public/screenshots/Screenshot%202023-03-28%20at%2012.14.04%20PM.png)
 
-Reviews page is for client/users who would like to share few words.
+Reviews page is for client who would like to write a review
 
 ![Reviews](./public/screenshots/review.png)
 
