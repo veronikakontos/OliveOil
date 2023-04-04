@@ -1,4 +1,4 @@
-# This project is a Family-Oriented Olive Oil Business
+# This project is a Family - Oriented Olive Oil Business
 
 ## Table of Contents
 
