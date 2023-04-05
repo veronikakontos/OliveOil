@@ -333,7 +333,7 @@ h5 {
 
 /* !Stiling REVIEW HTML */
 .review .box-container {
-  background-image: url(../public/images/backround2.jpeg);
+  /* background-image: url(../public/images/backround2.jpeg); */
   margin-top: 50px;
   min-height: 100vh;
   padding: 10rem;
