@@ -10,7 +10,7 @@
   - [Setup and Usage](#setup-and-usage)
   - [Project Status](#project-status)
   - [Room for Improvement](#room-for-improvement)
-  - [Contact](#contact)
+  - [Contact](#contact). 
   
 ## General Information
   This project is a Full-Stack website built using MERN, HTML5, CSS, and Postman.
