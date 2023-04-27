@@ -1,5 +1,7 @@
 # This project is a Family - Oriented Olive Oil Business
 
+### - Website was made to be used for real bussines purposes
+
 
 ### Table of Contents
 
