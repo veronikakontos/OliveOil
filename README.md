@@ -44,7 +44,7 @@ Main page: You can click on the Social media link or click on Logo and this take
 
 ![Main page](./public/screenshots/welcome.png)
 
-The about page is a small introduction about the family business, who they are etc
+Small introduction about backround of the product
 
 ![About](./public/screenshots/about.png)
 
