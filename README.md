@@ -2,8 +2,6 @@
 
 ##### - Website was an idea, mean to be used for real bussiness purposes for private client from Greece!
 
-
-
 ### Table of Contents
 
   - [Table of Contents](#table-of-contents)
