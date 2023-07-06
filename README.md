@@ -52,11 +52,11 @@ Product page show all available products to be able to purchase via contacting s
 
 ![All Products](./public/screenshots/Screenshot%202023-03-28%20at%2012.14.04%20PM.png)
 
-Reviews page is for client who would like to write a review
+The reviews page is for clients who would like to write a review
 
 ![Reviews](./public/screenshots/review.png)
 
-Write review page is form with personal info and full validation
+The write review page is formed with personal info and full validation
 
 ![Write Reviews](./public/screenshots/writerev.png)
 
