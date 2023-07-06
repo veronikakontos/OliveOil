@@ -1,6 +1,6 @@
 # This project is a Family - Oriented Olive Oil Business web application
 
-#### - Website was an idea, mean to be used for real bussiness purposes for private client from Greece
+#### - The website was an idea, mean to be used for real business purposes for a private clients from Greece
 
 
 ### Table of Contents!
