@@ -43,7 +43,7 @@ Main page: You can click on the Social media link or click on Logo and this take
 
 ![Main page](./public/screenshots/welcome.png)
 
-Small introduction about backround of the product
+A small introduction about background of the product
 
 ![About](./public/screenshots/about.png)
 
