@@ -36,8 +36,6 @@
 
 <br>
 
-
-
 ## Screenshots
 Main page: You can click on the Social media link or click on Logo and this takes you to Instagram.
 
