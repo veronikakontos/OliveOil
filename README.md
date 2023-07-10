@@ -69,7 +69,6 @@ Social media
 ![Social Media](./public/screenshots/ig.png)
 
 <br>
-
 <br>
 
 ## Getting Started with Create React App
