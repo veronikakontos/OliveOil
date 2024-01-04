@@ -46,7 +46,7 @@ A small introduction about the background of the product
 
 ![About](./public/screenshots/about.png)
 
-Product page show all available products to be able to purchase via contacting sellers. The contact click button will take you to a contact page.
+The product page show all available products to be able to purchase via contacting sellers. The contact click button will take you to a contact page.
 
 ![All Products](./public/screenshots/Screenshot%202023-03-28%20at%2012.14.04%20PM.png)
 
